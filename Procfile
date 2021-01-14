@@ -1,0 +1,1 @@
+web: pm2-runtime start pm2-apps.json --env production

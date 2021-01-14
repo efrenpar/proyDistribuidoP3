@@ -1,0 +1,16 @@
+{
+    "apps": [
+      {
+        "name": "galeria",
+        "script": "./app.js"
+      },
+      {
+        "name": "admin",
+        "script": "./node_modules/express-admin/app.js"
+      },
+      {
+        "name": "servidor_email",
+        "script": "./gmail/index.js"
+      }
+    ]
+  }
